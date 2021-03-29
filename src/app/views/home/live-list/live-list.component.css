@@ -1,0 +1,46 @@
+.ajuste{
+    padding-top: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.borda{
+    padding-left: 2%;
+    padding-right: 2%;
+   
+}
+
+.div{
+    padding: 2%;
+}
+
+.estilo{
+    margin: 0.5%;
+}
+
+.mat-card{
+    border: 2px solid rgb(5, 63, 255);
+    border-radius: 4px 3px 6px / 2px 4px;
+    padding-top: 17px;
+    padding-left: 0%;
+    padding-right: 42%;
+    padding-bottom: 0%;
+    margin: 5px;
+    display: inline-flex;
+    overflow: auto;
+    
+}
+
+
+.mat-card-title{
+    padding-top: 0px;
+    padding-left: 10%;
+    padding-right: 15%;
+    min-height: 70px;
+}
+
+.data{
+  font-size: 0.7rem;
+  display: flex;
+  margin: 0rem 5.9rem;
+}
