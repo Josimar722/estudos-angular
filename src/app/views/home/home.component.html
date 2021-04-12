@@ -1,9 +1,8 @@
-
 <mat-toolbar color="primary">
     <mat-toolbar-row class="font">
       <span>Cursos.com <mat-icon>local_library</mat-icon></span>
       <span class="example-spacer"></span>
-      <button mat-raised-button color="warn">Mais cursos<mat-icon>add</mat-icon></button>
+      <button mat-raised-button color="warn" (click)="addCurso()">Mais cursos<mat-icon>add</mat-icon></button>
     </mat-toolbar-row>
   </mat-toolbar>
   <app-live-list></app-live-list>
